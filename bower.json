@@ -1,0 +1,13 @@
+{
+  "name": "OSIDC",
+  "main": "index.html",
+  "homepage": "https://github.com/1dervish/OSIDC",
+  "authors": [
+    "editor Dervish (1dervish)"
+  ],
+  "description": "Advanced Reconnaissance Framework",
+  "license": "",
+  "dependencies": {
+    "d3": "3.5.16"
+  }
+}
